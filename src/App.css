@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    height: 100vh;
+}
+
+::-webkit-scrollbar {
+    width: 0000.1px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: transparent;
+}
+
